@@ -2,7 +2,7 @@ td.tr1,td.tr2{
   word-break:break-word;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 767px), only screen and (max-device-width: 767px) {
   body {
     margin:0;
     border:0
