@@ -1,2 +1,2 @@
 # nevertellmetheodds
-It's a css file to help make the roboto board mobile.
+It's a css file to help make the roboto board mobile again.
