@@ -1,0 +1,19 @@
+{
+  "name": "nevertellmetheodds",
+  "version": "4.2.0",
+  "description": "it's a css file for a website.",
+  "main": "index.js",
+  "scripts": {
+    "css": "node-sass mobile.scss -o .",
+    "dev": "npm run css && node-sass --watch mobile.scss -o ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaneckel/nevertellmetheodds.git"
+  },
+  "author": "shaneckel@gmail.com",
+  "homepage": "http://nevertellmetheodds.org",
+  "dependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
